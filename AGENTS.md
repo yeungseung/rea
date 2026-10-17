@@ -1,5 +1,9 @@
 # Repository Guidelines
 
+## AI context operating policy
+
+Before substantial work, follow [AI_CONTEXT_OPERATING_POLICY.md](AI_CONTEXT_OPERATING_POLICY.md). Keep this root file as a small map: load task-scoped documents only when relevant, keep history/evidence on demand, and promote repeatedly enforced prose rules into tests/schema/linters/guards when practical.
+
 ## Product and Authority
 
 REA is a local-only reverse-engineering tool with shared CLI/MCP workflows. Distinguish observations, derivations, inferences, and unknowns; preserve Evidence provenance and session semantics through both adapters. Provider support and setup live in [README.md](README.md#choosing-a-deep-analysis-provider) and its linked guides.
